@@ -1,2 +1,2 @@
 # Testing-Implementation
-Contains test cases based on scenarios.
+Contains test case report on a Checkout process of an E-Commerce Website.
